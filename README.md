@@ -6,7 +6,7 @@
 ### linkedin : [https://www.linkedin.com/in/fabien-vandenberghe/](https://www.linkedin.com/in/fabien-vandenberghe/)
 
 ### Infos :
-https://img.shields.io/badge/OS-Mac-blue?style=flat&logo=apple
+![](https://img.shields.io/badge/OS-Mac-blue?style=flat&logo=apple)
 
 
 <!-- <a href="https://github.com/BastosFab?tab=repositories">
