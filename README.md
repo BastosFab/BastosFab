@@ -5,10 +5,6 @@
 
 ### linkedin : [https://www.linkedin.com/in/fabien-vandenberghe/](https://www.linkedin.com/in/fabien-vandenberghe/)
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
 <a href="https://github.com/BastosFab?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastosFab&layout=compact" />
 </a>
