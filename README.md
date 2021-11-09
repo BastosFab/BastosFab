@@ -7,3 +7,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BastosFab&layout=compact)](https://github.com/BastosFab?tab=repositories)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=BastosFab)](https://github.com/anuraghazra/github-readme-stats)
+
