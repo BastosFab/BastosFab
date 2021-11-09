@@ -2,10 +2,7 @@
 
 ## More : 
 
-### Web Site : [Vandenberghe Fabien](https://vandenberghefabien.com/)
+### Web Site : [https://vandenberghefabien.com](https://vandenberghefabien.com/)
 
 ### linkedin : [https://www.linkedin.com/in/fabien-vandenberghe/](https://www.linkedin.com/in/fabien-vandenberghe/)
-<!---
-BastosFab/BastosFab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
