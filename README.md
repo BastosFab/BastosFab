@@ -9,10 +9,10 @@
 <!-- https://shields.io/ -->
 ![](https://img.shields.io/badge/OS-Mac-blue?style=flat&logo=apple)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat&logo=visualstudio)
-![](https://img.shields.io/badge/Code-HTML-blue?style=flat&logo=html5)
+<!-- ![](https://img.shields.io/badge/Code-HTML-blue?style=flat&logo=html5)
 ![](https://img.shields.io/badge/Code-CSS-blue?style=flat&logo=css3)
 ![](https://img.shields.io/badge/Code-SCSS-blue?style=flat&logo=sass)
-![](https://img.shields.io/badge/Code-JS-blue?style=flat&logo=javascript)
+![](https://img.shields.io/badge/Code-JS-blue?style=flat&logo=javascript) -->
 
 
 <!-- <a href="https://github.com/BastosFab?tab=repositories">
