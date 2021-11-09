@@ -5,6 +5,9 @@
 
 ### linkedin : [https://www.linkedin.com/in/fabien-vandenberghe/](https://www.linkedin.com/in/fabien-vandenberghe/)
 
+### Infos :
+https://img.shields.io/badge/OS-Mac-blue?style=flat&logo=apple
+
 
 <!-- <a href="https://github.com/BastosFab?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastosFab&layout=compact" />
